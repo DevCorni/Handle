@@ -1,0 +1,1 @@
+Put your discord bot token in here if you want to just type " token " in the " Enter your bot token " so it paste it for you. ps : remove this text when you do it.
